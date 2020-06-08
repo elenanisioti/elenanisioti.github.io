@@ -6,7 +6,7 @@ author_profile: true
 excerpt_separator: <!--more-->
 ---
 
-You can also check out my [google scholar profile](https://scholar.google.com/citations?user=qkR7XKUAAAAJ&hl=en). I publish under my birth name, Eleni.
+You can also check out my [google scholar profile](https://scholar.google.com/citations?user=qkR7XKUAAAAJ&hl=en).
 
 ### Journals
 
