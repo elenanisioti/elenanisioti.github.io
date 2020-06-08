@@ -13,5 +13,5 @@ Some nice things that happened to me lately:
 * (June 2019) I went on a two-week research visit at University Pompeu Fabra, Barcelona under the [YERUN Mobility award scheme](https://www.yerun.eu/2019/10/its-open-the-3rd-yerun-research-mobility-awards-call-2019-2020/). My host supervisors were Prof. Bellalta, head of the Wireless Networking group, and Prof. Jonsson, head of the Artificial Intelligence and Machine Learning group.
 * (May 2019) My [essay](https://365datascience.com/eleni-nisioti-scholarship-winner/) on Artificial Intelligence and Free will won the 365 Data Science scholarship competition.
 <!--more-->
-* (December 2018) I won a [YERUN Mobility award](https://www.yerun.eu/2019/10/its-open-the-3rd-yerun-research-mobility-awards-call-2019-2020/), is grant for initiating research collaborations.
+* (December 2018) I won a [YERUN Mobility award](https://www.yerun.eu/2019/10/its-open-the-3rd-yerun-research-mobility-awards-call-2019-2020/), a grant for initiating research collaborations.
 * (May 2017) I received a scholarship from the School of Computer Science and Electronic Engineering of the University of Essex to pursue a PhD under the supervision of Dr. Thomos.
