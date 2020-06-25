@@ -11,3 +11,6 @@ Welcome to my academic and personal page. I am currently a PhD student at the [U
 I also hold a Diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki, where I majored in Electronics and Computers and conducted a Diploma thesis on automated machine learning.
 
 In my academia-free time I enjoy blogging about Artificial Intelligence, literature and the history of science. I haeve also worked with different [medium publications](https://medium.com/applied-data-science) and [institutes](https://cognitivemarketinginstitute.de/en/blog-en/) as a freelance technology writer.
+
+
+New section
