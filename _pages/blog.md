@@ -5,4 +5,4 @@ layout: archive
 author_profile: true
 ---
 
-I have so far been blogging on [medium](https://medium.com/@elennisioti), but there's a sweet, comforting smell of tutorials and essays coming from this page ...  
+Checkout my [medium profile](https://medium.com/@elennisioti) where I have been blogging up until now. My posts are mostly about AI, mathematics, literature and philosophy.
