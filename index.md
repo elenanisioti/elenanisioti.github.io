@@ -13,4 +13,3 @@ I also hold a Diploma in Electrical and Computer Engineering from the Aristotle 
 In my academia-free time I enjoy blogging about Artificial Intelligence, literature and the history of science. I haeve also worked with different [medium publications](https://medium.com/applied-data-science) and [institutes](https://cognitivemarketinginstitute.de/en/blog-en/) as a freelance technology writer.
 
 
-New section
