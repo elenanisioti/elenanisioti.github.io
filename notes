@@ -6,3 +6,6 @@ rake publish
 To build page locally run:
 
 bundle exec jekyll serve
+
+
+
